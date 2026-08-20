@@ -13,7 +13,7 @@ with open("system_prompt.txt") as f:
 
 #Loading PDF and coverting it into raw text    
 
-path = "/home/alphazerox/Documents/Existentialism_is_Humanism.pdf"
+path = "add_pdf_path"
 
 reader = PdfReader(path)
 
